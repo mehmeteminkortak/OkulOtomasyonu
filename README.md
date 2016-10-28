@@ -1,0 +1,2 @@
+# OkulOtomasyonu
+Okul otomasyonu
